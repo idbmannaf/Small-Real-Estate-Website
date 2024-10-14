@@ -1,5 +1,5 @@
 import Bottom from "./svg/about/Bottom";
-import Left from "./svg/about/left";
+import Left from "./svg/about/Left";
 import Right from "./svg/about/Right";
 
 const AboutSection = () => {
