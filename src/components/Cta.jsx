@@ -1,5 +1,5 @@
 import Bottom from "./svg/cta/Bottom";
-import Top from "./svg/cta/Top";
+import Top from "./svg/cta/Left";
 
 const Cta = () => {
   return (
