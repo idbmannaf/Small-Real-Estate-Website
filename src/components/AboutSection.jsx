@@ -20,8 +20,8 @@ const AboutSection = () => {
                 personalized consultations led by industry experts.
                 <br />
                 <br />
-                The main ‘thrust' is to focus on educating attendees on how to
-                best protect highly vulnerable business applications with
+                The main {"‘thrust'"} is to focus on educating attendees on how
+                to best protect highly vulnerable business applications with
                 interactive panel.
               </p>
 
