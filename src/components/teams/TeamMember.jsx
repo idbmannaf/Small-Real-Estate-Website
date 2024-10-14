@@ -247,19 +247,20 @@ const TeamMember = ({ name, position, image, socials }) => {
               href="javascript:void(0)"
               className="text-dark-6 hover:text-primary"
             >
-              <Facebook />
+              <Facebook height={18} width={18} />
             </a>
             <a
               href="javascript:void(0)"
               className="text-dark-6 hover:text-primary"
             >
-              <Twitter />
+              <Twitter height={18} width={18} />
             </a>
+
             <a
               href="javascript:void(0)"
               className="text-dark-6 hover:text-primary"
             >
-              <Instagram />
+              <Instagram height={18} width={18} />
             </a>
           </div>
         </div>
